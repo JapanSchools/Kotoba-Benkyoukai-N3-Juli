@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hafalan Kotoba Adeska N2</title>
+    <link rel="icon" href="https://github.com/Nanonicorp/nanonicorp/blob/main/images/logonanoni.png?raw=true" type="image/png">
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">Desuka<span>Kun</span></div>
+                <ul class="nav-links">
+                    <li><a href="https://nanonicorp.github.io/nanonicorp/">Beranda</a></li>
+                    <li><a href="#vocabulary">Kosakata</a></li>
+                    <li><a href="https://nanonicorp.github.io/nanonicorp/#classes">Kelas</a></li>
+                </ul>
+                <div class="burger" id="burger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Vocabulary Section -->
+    <section id="vocabulary" class="vocabulary">
+        <div class="container">
+            <h2 class="section-title">Persiapan Hafalan Kotoba JLPT N2</h2>
+
+            <div class="vocab-tips fade-in" style="margin-bottom: 30px; background: #f9f9f9; padding: 20px; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
+    <h3 style="margin-top: 0;">Tutorial Menghafal Kotoba di Website Nanoni:</h3>
+    <ul style="line-height: 1.6;">
+        <li><strong>Atur tampilan jadi 10 kata per halaman</strong> agar fokus lebih mudah.</li>
+        <li><strong>Perhatikan kolom "Kana"</strong> untuk cara baca, dan kolom "Arti" untuk maknanya.</li>
+        <li><strong>Baca berulang kali</strong> hingga mulai hafal.</li>
+        <li>Setelah itu<strong>, sembunyikan kolom "Kana" dan "Arti"</strong>, lalu baca kata-kata dari atas.
+Jika ada yang lupa cara bacanya atau artinya, buka kembali kolom tersebut. Kalau sudah hafal, tutup lagi.</li>
+        <li><strong>Ulangi langkah ini terus</strong> sampai semua kata di halaman itu hafal.</li>
+        <li><strong>Lanjut ke halaman berikutnya</strong> sampai hafal semua kotoba</li>
+    </ul>
+</div>
+            
+            <div class="controls fade-in">
+                <div class="search-group" style="display: none;">
+                    <input type="text" id="searchInput" placeholder="Cari kotoba/kana...">
+                </div>               
+
+
+                <div class="filter-group">
+                    <span>Minggu:</span>
+                    <select id="weekSelector">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                    </select>
+
+                    <span>Hari:</span>
+                    <select id="daySelector">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                    </select>
+                </div>
+
+                <div class="items-per-page">
+                    <span>Tampilkan per halaman:</span>
+                    <select id="itemsPerPage">
+                        <option value="10" selected>10</option>
+                        <option value="20">20</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="error-message" id="errorMessage"></div>
+
+            <div class="table-container fade-in">
+                <div class="table-wrapper">
+                    <table id="vocabularyTable">
+                        <thead>
+                            <tr>
+                                <th class="col-kotoba">
+                                    Kotoba
+                                    <i class="fas fa-eye column-toggle" data-column="kotoba" title="Sembunyikan kolom"></i>                                    
+                                </th>
+                                <th class="col-kana">
+                                    Kana
+                                    <i class="fas fa-eye column-toggle" data-column="kana" title="Sembunyikan kolom"></i>                                    
+                                </th>
+                                <th class="col-arti">
+                                    Arti
+                                    <i class="fas fa-eye column-toggle" data-column="arti" title="Sembunyikan kolom"></i>                                    
+                                </th>
+                                <th class="col-info">Info</th>
+                                <th class="col-action">Aksi</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Diisi oleh JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="pagination-container">
+                <div class="pagination-controls">
+                    <button id="prevPage" disabled><i class="fas fa-chevron-left"></i> Sebelumnya</button>
+                    <span id="pageInfo" class="pagination-info">Halaman 1 dari 1</span>
+                    <button id="nextPage" disabled>Berikutnya <i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modal Popup -->
+    <div id="popupModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h3>Contoh Penggunaan</h3>
+            <p id="popupText">Loading...</p>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="logo" style="color: white; margin-bottom: 20px;">Desuka<span style="color: var(--accent);">Kun</span></div>
+            <ul class="footer-links">
+                <li><a href="#home">Beranda</a></li>
+                <li><a href="#vocabulary">Kosakata</a></li>
+                <li><a href="#classes">Kelas</a></li>
+            </ul>
+            <div class="social-icons">
+                <a href="https://www.instagram.com/nanoni.id/"><i class="fab fa-instagram"></i></a>
+                <a href="https://chat.whatsapp.com/GSCeopCFvgo7aw5stQ9x3Y"><i class="fab fa-whatsapp"></i></a>
+                <a href="https://www.youtube.com/@desukakundesuka"><i class="fab fa-youtube"></i></a>
+            </div>
+            <p class="copyright">© 2023 Desukakun. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js" defer></script>
+</body>
+</html>
