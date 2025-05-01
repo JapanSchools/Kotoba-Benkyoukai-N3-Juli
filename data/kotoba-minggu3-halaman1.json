@@ -1,0 +1,23 @@
+[
+  {"kotoba": "加熱", "kana": "かねつ", "arti": "pemanasan", "kategori": "kata benda"},
+  {"kotoba": "産業", "kana": "さんぎょう", "arti": "industri", "kategori": "kata benda"},
+  {"kotoba": "感情", "kana": "かんじょう", "arti": "perasaan; emosi", "kategori": "kata benda"},
+  {"kotoba": "順番", "kana": "じゅんばん", "arti": "urutan; giliran", "kategori": "kata benda"},
+  {"kotoba": "縮小", "kana": "しゅくしょう", "arti": "penyusutan; pengecilan", "kategori": "kata benda"},
+  {"kotoba": "滞在", "kana": "たいざい", "arti": "tinggal; menetap sementara", "kategori": "kata benda"},
+  {"kotoba": "運休", "kana": "うんきゅう", "arti": "penghentian layanan (transportasi)", "kategori": "kata benda"},
+  {"kotoba": "延期", "kana": "えんき", "arti": "penundaan", "kategori": "kata benda"},
+  {"kotoba": "広告", "kana": "こうこく", "arti": "iklan", "kategori": "kata benda"},
+  {"kotoba": "伝言", "kana": "でんごん", "arti": "pesan (yang dititipkan)", "kategori": "kata benda"},
+  {"kotoba": "合図", "kana": "あいず", "arti": "isyarat", "kategori": "kata benda"},
+  {"kotoba": "盛んな", "kana": "さかんな", "arti": "aktif; berkembang", "kategori": "kata sifat-na"},
+  {"kotoba": "身近な", "kana": "みぢかな", "arti": "akrab; dekat", "kategori": "kata sifat-na"},
+  {"kotoba": "批判する", "kana": "ひはんする", "arti": "mengkritik", "kategori": "kata kerja"},
+  {"kotoba": "囲む", "kana": "かこむ", "arti": "mengelilingi", "kategori": "kata kerja"},
+  {"kotoba": "検討する", "kana": "けんとうする", "arti": "mempertimbangkan", "kategori": "kata kerja"},
+  {"kotoba": "企業", "kana": "きぎょう", "arti": "perusahaan", "kategori": "kata benda"},
+  {"kotoba": "煮る", "kana": "にる", "arti": "merebus", "kategori": "kata kerja"},
+  {"kotoba": "移す", "kana": "うつす", "arti": "memindahkan", "kategori": "kata kerja"},
+  {"kotoba": "しみ", "kana": "しみ", "arti": "noda", "kategori": "kata benda"},
+  {"kotoba": "指導", "kana": "しどう", "arti": "bimbingan; pengarahan", "kategori": "kata benda"}
+]
