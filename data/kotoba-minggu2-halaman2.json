@@ -1,0 +1,566 @@
+[
+  {
+    "kotoba": "冷えます",
+    "kana": "hiemasu",
+    "arti": "dingin, menjadi dingin",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "留学生交流会",
+    "kana": "ryūgakusei kōryūkai",
+    "arti": "pertemuan pertukaran pelajar internasional",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "調査",
+    "kana": "chōsa",
+    "arti": "penelitian, survei",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "対して",
+    "kana": "taishite",
+    "arti": "terhadap, berkenaan dengan",
+    "kategori": "kata depan"
+  },
+  {
+    "kotoba": "景色",
+    "kana": "keshiki",
+    "arti": "pemandangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "出張",
+    "kana": "shucchō",
+    "arti": "perjalanan dinas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "お土産",
+    "kana": "omiyage",
+    "arti": "oleh-oleh",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "数",
+    "kana": "kazu",
+    "arti": "jumlah, angka",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "窓",
+    "kana": "mado",
+    "arti": "jendela",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "読書",
+    "kana": "dokusho",
+    "arti": "membaca buku",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "だけなく",
+    "kana": "dakenaku",
+    "arti": "bukan hanya",
+    "kategori": "kata sambung"
+  },
+  {
+    "kotoba": "不安",
+    "kana": "fuan",
+    "arti": "kecemasan, kekhawatiran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "印象",
+    "kana": "inshō",
+    "arti": "kesan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "野菜",
+    "kana": "yasai",
+    "arti": "sayuran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "庭",
+    "kana": "niwa",
+    "arti": "taman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "種類",
+    "kana": "shurui",
+    "arti": "jenis, macam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "答えする",
+    "kana": "kotae suru",
+    "arti": "menjawab",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "以前",
+    "kana": "izen",
+    "arti": "sebelumnya, dulu",
+    "kategori": "kata keterangan waktu"
+  },
+  {
+    "kotoba": "緑野",
+    "kana": "ryokuno",
+    "arti": "padang rumput hijau",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "生活",
+    "kana": "seikatsu",
+    "arti": "kehidupan, hidup",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "通勤",
+    "kana": "tsūkin",
+    "arti": "perjalanan ke tempat kerja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "生日",
+    "kana": "seijin-shiki",
+    "arti": "perayaan ulang tahun dewasa",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "気づいた",
+    "kana": "kidzuita",
+    "arti": "sadar, menyadari",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "感",
+    "kana": "kan",
+    "arti": "perasaan, rasa",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "経験",
+    "kana": "keiken",
+    "arti": "pengalaman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "早退",
+    "kana": "sōtai",
+    "arti": "pulang lebih awal",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "進行",
+    "kana": "shinkō",
+    "arti": "proses, kemajuan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "確認",
+    "kana": "kakunin",
+    "arti": "konfirmasi, pengecekan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "約束",
+    "kana": "yakusoku",
+    "arti": "janji, perjanjian",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "席",
+    "kana": "seki",
+    "arti": "kursi, tempat duduk",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "小会議屋",
+    "kana": "shō kaigiya",
+    "arti": "ruang rapat kecil",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "予約",
+    "kana": "yoyaku",
+    "arti": "reservasi, pemesanan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "お願い",
+    "kana": "onegai",
+    "arti": "permintaan, tolong",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "分印刷",
+    "kana": "bun insatsu",
+    "arti": "percetakan bagian",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "準備",
+    "kana": "junbi",
+    "arti": "persiapan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "問題",
+    "kana": "mondai",
+    "arti": "masalah, soal",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "壁",
+    "kana": "kabe",
+    "arti": "dinding",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "暖色",
+    "kana": "danshoku",
+    "arti": "warna hangat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "食欲",
+    "kana": "shokuyoku",
+    "arti": "nafsu makan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "囲",
+    "kana": "kaku",
+    "arti": "mengelilingi, mengitari",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "工夫",
+    "kana": "kufu",
+    "arti": "kreasi, ide",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "効果",
+    "kana": "kōka",
+    "arti": "efek, hasil",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "実際",
+    "kana": "jissai",
+    "arti": "sebenarnya, dalam kenyataan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "短",
+    "kana": "tan",
+    "arti": "pendek",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "客",
+    "kana": "kyaku",
+    "arti": "tamu, pelanggan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "経営",
+    "kana": "keiei",
+    "arti": "manajemen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "留学",
+    "kana": "ryūgaku",
+    "arti": "studi di luar negeri",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "粉の香辛料",
+    "kana": "kona no kōshinryō",
+    "arti": "rempah bubuk",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "普段",
+    "kana": "fudan",
+    "arti": "biasanya",
+    "kategori": "kata keterangan waktu"
+  },
+  {
+    "kotoba": "困",
+    "kana": "komu",
+    "arti": "kesulitan, kebingungan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "留学生交流会",
+    "kana": "ryūgakusei kōryūkai",
+    "arti": "pertemuan pertukaran pelajar internasional",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "得意",
+    "kana": "tokui",
+    "arti": "keahlian, kebanggaan",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "着竿料",
+    "kana": "chakukan-ryō",
+    "arti": "biaya pemasangan tiang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "普通",
+    "kana": "futsū",
+    "arti": "biasa, umum",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "国らしい",
+    "kana": "kuni rashii",
+    "arti": "bernuansa negara",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "萎り",
+    "kana": "shibori",
+    "arti": "layu",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "交流会",
+    "kana": "kōryūkai",
+    "arti": "pertemuan, acara sosial",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "安心",
+    "kana": "anshin",
+    "arti": "rasa aman, ketenangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "予想",
+    "kana": "yosō",
+    "arti": "prediksi, perkiraan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "変化",
+    "kana": "henka",
+    "arti": "perubahan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "環境",
+    "kana": "kankyō",
+    "arti": "lingkungan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "重大",
+    "kana": "jūdai",
+    "arti": "penting, serius",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "影響",
+    "kana": "eikyō",
+    "arti": "pengaruh",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "繊維",
+    "kana": "sen'i",
+    "arti": "serat, bahan tekstil",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "変え",
+    "kana": "kae",
+    "arti": "mengubah",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "靴",
+    "kana": "kutsu",
+    "arti": "sepatu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "良",
+    "kana": "yoi",
+    "arti": "baik",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "実",
+    "kana": "mi",
+    "arti": "buah, hasil",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "漁師",
+    "kana": "ryōshi",
+    "arti": "nelayan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "問題",
+    "kana": "mondai",
+    "arti": "masalah, soal",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "長期間",
+    "kana": "chōkikan",
+    "arti": "jangka waktu lama",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "関心",
+    "kana": "kanshin",
+    "arti": "perhatian, minat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "企業や消費者",
+    "kana": "kigyō ya shōhisha",
+    "arti": "perusahaan dan konsumen",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "活動",
+    "kana": "katsudō",
+    "arti": "aktivitas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "回収",
+    "kana": "kaishū",
+    "arti": "pengumpulan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "捨てる",
+    "kana": "suteru",
+    "arti": "membuang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "消費者",
+    "kana": "shōhisha",
+    "arti": "konsumen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "意識",
+    "kana": "ishiki",
+    "arti": "kesadaran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "古民家",
+    "kana": "kominka",
+    "arti": "rumah tradisional",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "建築",
+    "kana": "kenchiku",
+    "arti": "arsitektur",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "伝わる",
+    "kana": "tsutawaru",
+    "arti": "disampaikan, diteruskan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "偶然",
+    "kana": "gūzen",
+    "arti": "kebetulan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "訪ね",
+    "kana": "tazune",
+    "arti": "mengunjungi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "利用",
+    "kana": "riyō",
+    "arti": "penggunaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "住める",
+    "kana": "sumeru",
+    "arti": "bisa tinggal",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "部分",
+    "kana": "bubun",
+    "arti": "bagian",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "暖房",
+    "kana": "danbō",
+    "arti": "pemanasan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "替える",
+    "kana": "kaeru",
+    "arti": "mengganti",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "直して",
+    "kana": "naoshite",
+    "arti": "memperbaiki",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "組",
+    "kana": "kumi",
+    "arti": "kelompok, set",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "壊れ",
+    "kana": "koware",
+    "arti": "rusak",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "材料",
+    "kana": "zairyō",
+    "arti": "bahan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "笑美",
+    "kana": "emi",
+    "arti": "senyum",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "薙築家",
+    "kana": "nagashizuka",
+    "arti": "pembangun rumah tradisional",
+    "kategori": "kata benda"
+  }
+]
