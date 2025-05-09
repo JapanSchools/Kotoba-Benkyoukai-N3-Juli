@@ -1,0 +1,104 @@
+[
+  {
+    "kotoba": "研究室",
+    "kana": "kenkyūshitsu",
+    "arti": "ruang penelitian",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "発表",
+    "kana": "happyou",
+    "arti": "presentasi, pengumuman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "相談",
+    "kana": "soudan",
+    "arti": "konsultasi, diskusi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "洗濯",
+    "kana": "sentaku",
+    "arti": "mencuci (pakaian)",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "洋服",
+    "kana": "youfuku",
+    "arti": "pakaian barat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "実際",
+    "kana": "jissai",
+    "arti": "sebenarnya, dalam kenyataan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "事務所",
+    "kana": "jimusho",
+    "arti": "kantor",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "調査",
+    "kana": "chousa",
+    "arti": "penelitian, survei",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "健康",
+    "kana": "kenkou",
+    "arti": "kesehatan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "景色",
+    "kana": "keshiki",
+    "arti": "pemandangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "印象",
+    "kana": "inshou",
+    "arti": "kesan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "野菜",
+    "kana": "yasai",
+    "arti": "sayuran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "庭",
+    "kana": "niwa",
+    "arti": "taman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "種類",
+    "kana": "shurui",
+    "arti": "jenis, macam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "世話",
+    "kana": "sewa",
+    "arti": "perawatan, bantuan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "招待",
+    "kana": "shoutai",
+    "arti": "undangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "電車通勤",
+    "kana": "densha tsūkin",
+    "arti": "perjalanan ke tempat kerja dengan kereta",
+    "kategori": "kata benda"
+  }
+]
